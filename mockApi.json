@@ -4,7 +4,7 @@
             "title": "Theta Edge Node",
             "name": "Theta Edge Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/theta-fuel-tfuel-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking, Compute, Cache",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -13,7 +13,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/theta-fuel-tfuel-logo.png",
             "currentAssetPrice": "$0.3423777",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/tfuel-theta-fuel",
-            "collatoral": "Not Required",
+            "collatoral": "0",
             "nodeValue": "Free",
             "supportedOS": "Windows:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:http://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:http://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -53,7 +53,7 @@
             "title": "Presearch Node",
             "name": "Presearch Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/presearch-pre-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Compute",
             "white Paper": "https://www.presearch.io/vision.pdf",
             "explorer": "https://explorer.thetatoken.org/",
@@ -107,7 +107,7 @@
             "title": "Mysterium VPN Node",
             "name": "Mysterium VPN Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/mysterium-myst-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Networking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -116,7 +116,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/mysterium-myst-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/myst-mysterium",
-            "collatoral": "Not Required",
+            "collatoral": "0",
             "nodeValue": "0",
             "supportedOS": "Windows:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:http://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:http://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:http://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -166,7 +166,7 @@
             "title": "Storj Node",
             "name": "Storj Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/storj-storj-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Storage",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -215,7 +215,7 @@
             "title": "Deviant Node",
             "name": "Deviant Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/deviant-dev-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Masternode",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -264,7 +264,7 @@
             "title": "NKN Node",
             "name": "NKN Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/nkn-nkn-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Networking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -273,7 +273,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/nkn-nkn-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/nkn-nkn",
-            "collatoral": "Not Required",
+            "collatoral": "0",
             "nodeValue": "10",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -308,7 +308,7 @@
             "title": "BTFS Node",
             "name": "BTFS Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/bittorrent-btt-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking, Compute, Cache",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -317,7 +317,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/bittorrent-btt-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/btt-bittorrent",
-            "collatoral": "Not Required",
+            "collatoral": "0",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -357,7 +357,7 @@
             "title": "Graph Indexer",
             "name": "Graph Indexer",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/the-graph-grt-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Indexing",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -366,7 +366,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/the-graph-grt-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/grt-the-graph",
-            "collatoral": "100,000",
+            "collatoral": "100000",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -406,7 +406,7 @@
             "title": "ONT Cadidate Node",
             "name": "ONT Cadidate Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/ontology-ont-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -415,7 +415,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/ontology-ont-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/ont-ontology",
-            "collatoral": "10,000",
+            "collatoral": "10000",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -455,7 +455,7 @@
             "title": "ONT Consensus Node",
             "name": "ONT Consensus Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/ontology-ont-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -464,7 +464,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/ontology-ont-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/ont-ontology",
-            "collatoral": "2,248,375",
+            "collatoral": "2248375",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -504,7 +504,7 @@
             "title": "dVPN Node",
             "name": "dVPN Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/sentinel-dvpn-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -553,7 +553,7 @@
             "title": "Digital Note Node",
             "name": "Digital Note Node",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/digitalnote-xdn-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -562,7 +562,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/digitalnote-xdn-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/xdn-digitalnote",
-            "collatoral": "2,000,000",
+            "collatoral": "2000000",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -602,7 +602,7 @@
             "title": "ION Masternode",
             "name": "ION Masternode",
             "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/ion-ion-logo.png",
-            "resources": "https://thecryptogarage.com/wp-content/uploads/2021/10/WhitePaper-cyrpto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Wallets-crypto-nodes.png,https://thecryptogarage.com/wp-content/uploads/2021/10/Explorer-crypto-nodes.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
             "nodeType": "Staking",
             "white Paper": "https://explorer.thetatoken.org/",
             "explorer": "https://explorer.thetatoken.org/",
@@ -611,7 +611,7 @@
             "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/ion-ion-logo.png",
             "currentAssetPrice": "$0.342379",
             "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/ion-ion",
-            "collatoral": "20,000",
+            "collatoral": "20000",
             "nodeValue": "Free",
             "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
             "mediaLinks": [{
@@ -643,6 +643,791 @@
                     "name": "Discord",
                     "url": "https://discord.com/invite/vCXJd5YKDt",
                     "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Phore Masternode",
+            "title": "Phore Masternode",
+            "name": "Phore Masternode",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/phore-phr-logo.jpg",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Staking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "PHR",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/phore-phr-logo.jpg",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/phr-phore",
+            "collatoral": "10000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Waves Full Node",
+            "title": "Waves Full Node",
+            "name": "Waves Full Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/waves-waves-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Staking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "WAVES",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/waves-waves-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/waves-waves",
+            "collatoral": "1000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Oxen Service None",
+            "title": "Oxen Service None",
+            "name": "Oxen Service None",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/oxen-oxen-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Networking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "OXEN",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/oxen-oxen-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/oxen-oxen",
+            "collatoral": "1000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Video Worker Node",
+            "title": "Video Worker Node",
+            "name": "Video Worker Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/oxen-oxen-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Networking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "OXEN",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/oxen-oxen-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/oxen-oxen",
+            "collatoral": "1000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "CELO Validator Node",
+            "title": "CELO Validator Node",
+            "name": "CELO Validator Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/celo-celo-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Networking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "OXEN",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/celo-celo-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/celo-celo",
+            "collatoral": "10000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "CELO Full Node",
+            "title": "CELO Full Node",
+            "name": "CELO Full Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/celo-celo-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Networking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "OXEN",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/celo-celo-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/celo-celo",
+            "collatoral": "0",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Azzure Masternode",
+            "title": "Azzure Masternode",
+            "name": "Azzure Masternode",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/azzure-azr-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Networking",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "AZR",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/azzure-azr-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/azr-aezora",
+            "collatoral": "200000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Gala Node",
+            "title": "Gala Node",
+            "name": "Gala Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/gala-gala-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "GALA",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/gala-gala-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/gala-gala",
+            "collatoral": "326493",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "XSN Masternode",
+            "title": "XSN Masternode",
+            "name": "XSN Masternode",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/stakenet_xsn-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "XSN",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/stakenet_xsn-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/xsn-stakenet",
+            "collatoral": "15000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Strong Node",
+            "title": "Strong Node",
+            "name": "Strong Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/11/strong-strong-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "STRONG",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/11/strong-strong-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/strong-strong",
+            "collatoral": "15000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Crown Masternode",
+            "title": "Crown Masternode",
+            "name": "Crown Masternode",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/12/crown-crw-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "CRW",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/12/crown-crw-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/crw-crown",
+            "collatoral": "10000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Crown Systemnode",
+            "title": "Crown Systemnode",
+            "name": "Crown Systemnode",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2021/12/crown-crw-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "CRW",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2021/12/crown-crw-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/crw-crown",
+            "collatoral": "500",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Polkadot Validator",
+            "title": "Polkadot Validator",
+            "name": "Polkadot Validator",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2022/02/polkadot-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Validator",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "DOT",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/polkadot-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/dot-polkadot",
+            "collatoral": "500",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Cumulus Flux Node",
+            "title": "Cumulus Flux Node",
+            "name": "Cumulus Flux Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "DOT",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/zel-zelcash",
+            "collatoral": "10000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Nimbus Flux Node",
+            "title": "Nimbus Flux Node",
+            "name": "Nimbus Flux Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "DOT",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/zel-zelcash",
+            "collatoral": "25000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+                }
+            ]
+        },
+        {
+            "id": "Stratus Flux Node",
+            "title": "Stratus Flux Node",
+            "name": "Stratus Flux Node",
+            "icon": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "resources": "https://thecryptogarage.com/wp-content/uploads/2022/02/icons-contract-whitepaper.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-wallet-black.png,https://thecryptogarage.com/wp-content/uploads/2022/02/icons-blockchain-technology-black.png",
+            "nodeType": "Compute",
+            "white Paper": "https://explorer.thetatoken.org/",
+            "explorer": "https://explorer.thetatoken.org/",
+            "wallet": "https://wallet.thetatoken.org",
+            "rewardedAsset": "DOT",
+            "rewardedAssetImageUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/flux-logo.png",
+            "currentAssetPrice": "$0.342379",
+            "currentAssetPriceApiUrl": "https://api.coinpaprika.com/v1/tickers/zel-zelcash",
+            "collatoral": "100000",
+            "nodeValue": "Free",
+            "supportedOS": "Windows:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-windows-OS-support.png,Linux:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-Linux-OS-support.png,Apple:https://thecryptogarage.com/wp-content/uploads/2021/10/Crypto-node-apple-OS-support.png,Raspberry Pi:https://thecryptogarage.com/wp-content/uploads/2022/02/raspberry.png,Docker:https://thecryptogarage.com/wp-content/uploads/2022/02/black-docker.png",
+            "mediaLinks": [{
+                    "name": "Website",
+                    "url": "https://www.thetatoken.org",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-internet-social.png"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/thetatoken",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-github-social.png"
+                },
+                {
+                    "name": "FaceBook",
+                    "url": "https://www.facebook.com/ThetaNetwork",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-facebook-social.png"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Theta_Network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-twitter-social.png"
+                },
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/theta-network",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-medium-social.png"
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://discord.com/invite/vCXJd5YKDt",
+                    "iconUrl": "https://thecryptogarage.com/wp-content/uploads/2022/02/black-discord-social.png"
+
                 }
             ]
         }
